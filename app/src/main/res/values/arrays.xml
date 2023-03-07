@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <string-array name="id_activityScreenNames">-->
+
+<!--        <item></item>-->
+<!--         <item>DashBoard</item>-->
+<!--         <item>MyProfile</item>-->
+<!--         <item>Settings</item>-->
+<!--         <item>Account</item>-->
+<!--         <item>Transaction</item>-->
+<!--        <item>AboutUs</item>-->
+<!--        <item></item>-->
+<!--        <item>Log out</item>-->
+
+<!--    </string-array>-->
+
+<!--    <array name="id_activityScreenIcon">-->
+<!--        <item>@drawable/googlee</item>-->
+<!--        <item>@drawable/googlee</item>-->
+<!--        <item>@drawable/googlee</item>-->
+<!--        <item>@drawable/googlee</item>-->
+<!--        <item>@drawable/googlee</item>-->
+<!--        <item>@drawable/googlee</item>-->
+<!--        <item>0</item>-->
+<!--        <item>@drawable/googlee</item>-->
+<!--    </array>-->
+
+</resources>

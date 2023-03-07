@@ -17,7 +17,7 @@ public class MyAccount extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my_account);
-        getSupportActionBar().hide();
+//        getSupportActionBar().hide();
         aSwitch = findViewById(R.id.switch1);
         bSwitch = findViewById(R.id.switch2);
         cSwitch = findViewById(R.id.switch3);
